@@ -20,6 +20,3 @@ So that is `git clone https://github.com/weshy007/my-weather-station.git`
 Waithaka Waweru 
 - For Feedback josephwaweru96@gmail.com
 
-<!-- ## Licence
-This project is licenced under the MIT Licence - see the [LICENCE](https://github.com/weshy007/my-weather-station/blob/master/LICENCE "Licence") file for details 
-- copyright 2021 - Waithaka Waweru  -->
