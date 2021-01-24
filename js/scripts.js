@@ -15,7 +15,7 @@ $(document).ready(function() {
                <div class="container">
                <div class="row">
 
-               <div class="card" style="width: 18rem;">
+               <div class="card" style="width: 28rem;">
                 <img class="card-img-top" src="http://openweathermap.org/img/wn/${weatherdata.weather[0].icon}@2x.png" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Weather: ${weatherdata.weather[0].description}</h5>
