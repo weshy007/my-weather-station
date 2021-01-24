@@ -19,8 +19,8 @@ $(document).ready(function() {
                 <img class="card-img-top" src="http://openweathermap.org/img/wn/${weatherdata.weather[0].icon}@2x.png" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Weather: ${weatherdata.weather[0].description}</h5>
-                    <p class="card-text">The Temperature at ${cityname} is = ${weatherdata.main.temp} &#8451; an it feels like it is ${weatherdata.main.feels_like} &#8451; </p>
-                    <a href="https://www.google.com/search?q=${cityname}" class="btn btn-primary">learn More about this place</a>
+                    <p class="card-text">The Temperature in ${cityname} is  ${weatherdata.main.temp}&#8451; and it feels like it is ${weatherdata.main.feels_like}&#8451; </p>
+                    <a href="https://www.google.com/search?q=${cityname}" class="btn btn-primary">Learn More About The Place</a>
                 </div>
                 </div>
 
