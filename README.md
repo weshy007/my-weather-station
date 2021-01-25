@@ -20,3 +20,8 @@ So that is `git clone https://github.com/weshy007/my-weather-station.git`
 Waithaka Waweru 
 - For Feedback josephwaweru96@gmail.com
 
+## RESOURCES
+- The whole JavaScript course is on UDEMY https://www.udemy.com/share/103J1KBkcTd1xVRHg=/
+
+- The `typed.js` documentation can be found on github https://github.com/mattboldt/typed.js/
+
