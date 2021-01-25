@@ -23,5 +23,5 @@ Waithaka Waweru
 ## RESOURCES
 - The whole JavaScript course is on UDEMY https://www.udemy.com/share/103J1KBkcTd1xVRHg=/
 
-- The `typed.js` documentation can be found on github https://github.com/mattboldt/typed.js/
+- The `typed.js` Library Documentation can be found on github https://github.com/mattboldt/typed.js/
 
